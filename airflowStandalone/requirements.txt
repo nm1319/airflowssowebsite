@@ -1,0 +1,4 @@
+Authlib
+apache-airflow[google_auth]
+apache-airflow[pandas]
+pyodbc
